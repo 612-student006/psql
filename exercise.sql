@@ -1,0 +1,2 @@
+--SELECT * FROM employee;
+--SELECT sal * 12 AS �N�� FROM employee;
